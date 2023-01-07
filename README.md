@@ -4,4 +4,4 @@ This is my implementation of the board game Mancala in the Windows terminal usin
 This was the final project for my Intro to C++ class.
 
 ## How to play
-Download and launch Mancala GUI.exe from the releases tab. The instructions on how to play will be displayed when the game initializes.
+Download and launch Mancala GUI.exe from the releases tab. This is a two player game so both players will have to input their names when the program is launched. Afterwards, the game instructions will be displayed. 
